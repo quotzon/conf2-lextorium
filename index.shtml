@@ -13,7 +13,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <title>Обязательственное, вещное и корпоративное право: научно, познавательно, практично. От ведущих аналитиков</title>
+    <title>Научно-практическая конференция "Оспаривание сделок в актуальной судебной практике: проблемы и решения"</title>
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
@@ -37,13 +37,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
     <link rel="shortcut icon" href="img/favicon/favicon.ico" type="image/x-icon">
 
-    <link href="https://cast28.lextorium.com/img/events/cast28-social-banner.jpg" rel="image_src" />
+    <!--<link href="https://conf2.lextorium.com/img/events/conf2-social-banner.jpg" rel="image_src" />-->
 
-    <meta property="og:url" content="https://cast28.lextorium.com/" />
+    <meta property="og:url" content="https://conf2.lextorium.com/" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content='Обязательственное, вещное и корпоративное право: научно, познавательно, практично. От ведущих аналитиков' />
-    <meta property="og:description" content='Обязательственное, вещное и корпоративное право: научно, познавательно, практично. От ведущих аналитиков. 52 академических часа видеолекций + 24 очных академических часа. Формат участия: онлайн+очно.' />
-    <meta property="og:image" content='https://cast28.lextorium.com/img/events/cast28-social-banner.jpg' />
+    <meta property="og:title" content='Оспаривание сделок в актуальной судебной практике: проблемы и решения' />
+    <meta property="og:description" content='Научно-практическая конференция "Оспаривание сделок в актуальной судебной практике: проблемы и решения". 12 спикеров. 8 академических часов. Формат участия: онлайн+очно.' />
+    <!--<meta property="og:image" content='https://conf2.lextorium.com/img/events/conf2-social-banner.jpg' />-->
     <meta property="og:updated_time" content="2019-03-20 09:26:48 +0300" />
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
@@ -141,7 +141,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <img class="d-block w-100" src="img/big-top-image.jpg" alt="">
                     <div class="carousel-caption d-md-block">
                         <h2></h2>
-                        <h1 class="wow fadeInDown heading mb-20" data-wow-delay=".6s">Обязательственное, вещное и корпоративное право: научно, познавательно, практично.<br>От ведущих аналитиков</h1>
+                        <h1 class="wow fadeInDown heading mb-20" data-wow-delay=".6s">Оспаривание сделок в актуальной судебной практике: проблемы и решения<br>Научно-практическая конференция</h1>
 
                         <!--<div class="details">
                             <p class="fadeInUp wow" data-wow-delay=".8s"><span class="icon">
@@ -158,10 +158,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         </div>-->
                         <div class="details">
                             <ul class="fa-ul">
-                                <li><span class="fa-li"><i class="fas fa-play-circle"></i></span>52 часа</li>
-                                <li><span class="fa-li"><i class="fas fa-briefcase"></i></span>24 часа очных/онлайн занятий</li>
-                                <li><span class="fa-li"><i class="fas fa-calendar"></i></span>Начало 14 мая 2019 года</li>
-                                <li><span class="fa-li"><i class="fas fa-award"></i></span>Удостоверение о повышении квалификации</li>
+                                <li><span class="fa-li"><i class="fas fa-user-tie"></i></span>8 часов</li>
+                                <li><span class="fa-li"><i class="fas fa-play-circle"></i></span>8 часов</li>
+                                <li><span class="fa-li"><i class="fas fa-calendar"></i></span>28 августа 2019 года</li>
                             </ul>
 
 
@@ -194,14 +193,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             </div>-->
             <div class="row">
                 <div class="col-12 wow fadeInUp" data-wow-delay="0.4s">
-                    <p style="margin-bottom: 80px; font-size: 1.2em;">Юрист компании должен быть постоянно в тонусе, ему нужны самые актуальные знания. Корпоративное, вещное и обязательственное право это то, с чем он сталкивается каждый день. Ошибка в этих вопросах может очень дорого обойтись компании, ведь считается, что инхаус должен разбираться во всем самостоятельно, без привлечения специалистов из консалтинга.</p>
+                    <p style="margin-bottom: 80px; font-size: 1.2em;">Третья конференция Ассоциации выпускников РШЧП при поддержке международной юридической фирмы Debevoise Plimpton LLP будет посвящена оспариванию сделок в судебной практике.</p>
                 </div>
             </div>
         </div>
     </section>
     <!-- Services Section End -->
 
-    <section id="knows" class="counter-section section-padding">
+    <!--<section id="knows" class="counter-section section-padding">
         <div class="container">
             <div class="row">
                 <div class="col-12 knows">
@@ -233,7 +232,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </div>
     </section>
 
-    <!--<section id="features" class="services section-padding">
+    <section id="features" class="services section-padding">
         <div class="container">
             <div class="row">
                 <div class="col-12">
@@ -272,7 +271,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </section>
 
     <!-- Counter Area Start -->
-    <section id="keys" class="grey-bl section-padding">
+    <!--<section id="keys" class="grey-bl section-padding">
         <div class="container">
             <div class="row">
                 <div class="col-12">
@@ -310,7 +309,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 </div>
             </div>
         </div>
-    </section>
+    </section>-->
     <!-- Counter Area End-->
 
     <!-- Team Section Start -->
@@ -324,6 +323,34 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 </div>
             </div>
             <div class="row row-flex justify-content-center mb-5">
+
+                <div class="col-12 col-lg-4 col-md-6 wrapper wow fadeInUp" data-wow-delay="0.6s">
+                    <!-- Team Item Starts -->
+                    <div class="team-item">
+                        <div class="team-img">
+                            <img class="img-fluid" src="img/speakers/bevzenko.jpg" alt="Бевзенко Роман Сергеевич">
+                        </div>
+                        <div class="info-text">
+                            <h3><a href="javascript:void(0);" target="_blank">Бевзенко<br />Роман Сергеевич</a></h3>
+                            <p>к.ю.н., профессор Исследовательского центра частного права имени С.С. Алексеева при Президенте Российской Федерации</p>
+                        </div>
+                    </div>
+                    <!-- Team Item Ends -->
+                </div>
+
+                <div class="col-12 col-lg-4 col-md-6 wrapper wow fadeInUp" data-wow-delay="0.2s">
+                        <!-- Team Item Starts -->
+                        <div class="team-item">
+                            <div class="team-img">
+                                <img class="img-fluid" src="img/speakers/egorov.jpg" alt="Громов М.П.">
+                            </div>
+                            <div class="info-text">
+                                <h3><a href="javascript:void(0);" target="_blank">Громов<br />М.П.</a></h3>
+                                <p>к.ю.н., м.ч.п. (РШЧП)</p>
+                            </div>
+                        </div>
+                        <!-- Team Item Ends -->
+                    </div>
                 
                 <div class="col-12 col-lg-4 col-md-6 wrapper wow fadeInUp" data-wow-delay="0.2s">
                     <!-- Team Item Starts -->
@@ -339,35 +366,89 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <!-- Team Item Ends -->
                 </div>
 
-                <div class="col-12 col-lg-4 col-md-6 wrapper wow fadeInUp" data-wow-delay="0.4s">
+                <div class="col-12 col-lg-4 col-md-6 wrapper wow fadeInUp" data-wow-delay="1.0s">
                     <!-- Team Item Starts -->
                     <div class="team-item">
                         <div class="team-img">
-                            <img class="img-fluid" src="img/speakers/sarbash.jpg" alt="Сарбаш Сергей Васильевич">
+                            <img class="img-fluid" src="img/speakers/erohova.jpg" alt="Ерохова Мария Андреевна">
                         </div>
                         <div class="info-text">
-                            <h3><a href="javascript:void(0);" target="_blank">Сарбаш<br />Сергей Васильевич</a></h3>
-                            <p>д.ю.н., судья ВАС РФ в отставке, магистр частного права</p>
+                            <h3><a href="javascript:void(0);" target="_blank">Ерохова<br />Мария Андреевна</a></h3>
+                            <p>к.ю.н., доцент Высшей школы экономики</p>
                         </div>
                     </div>
                     <!-- Team Item Ends -->
                 </div>
 
-                <div class="col-12 col-lg-4 col-md-6 wrapper wow fadeInUp" data-wow-delay="0.6s">
+                <div class="col-12 col-lg-4 col-md-6 wrapper wow fadeInUp" data-wow-delay="1.0s">
                     <!-- Team Item Starts -->
                     <div class="team-item">
                         <div class="team-img">
-                            <img class="img-fluid" src="img/speakers/bevzenko.jpg" alt="Бевзенко Роман Сергеевич">
+                            <img class="img-fluid" src="img/speakers/zaitsev4.jpg" alt="Зайцев Олег Романович">
                         </div>
                         <div class="info-text">
-                            <h3><a href="javascript:void(0);" target="_blank">Бевзенко<br />Роман Сергеевич</a></h3>
+                            <h3><a href="javascript:void(0);" target="_blank">Зайцев<br />Олег Романович</a></h3>
+                            <p>к.ю.н., доцент Российской школы частного права, государственный советник юстиции РФ 3 класса, магистр частного права, председатель Банкротного клуба</p>
+                        </div>
+                    </div>
+                    <!-- Team Item Ends -->
+                </div>
+
+                <div class="col-12 col-lg-4 col-md-6 wrapper wow fadeInUp" data-wow-delay="1.0s">
+                    <!-- Team Item Starts -->
+                    <div class="team-item">
+                        <div class="team-img">
+                            <img class="img-fluid" src="img/speakers/ivanov_aa.jpg" alt="Иванов Антон Александрович">
+                        </div>
+                        <div class="info-text">
+                            <h3><a href="javascript:void(0);" target="_blank">Иванов<br />Антон Александрович</a></h3>
+                            <p>профессор, научный руководитель Факультета права НИУ ВШЭ, заведующий кафедрой гражданского и предпринимательского права</p>
+                        </div>
+                    </div>
+                    <!-- Team Item Ends -->
+                </div>
+
+                <div class="col-12 col-lg-4 col-md-6 wrapper wow fadeInUp" data-wow-delay="1.0s">
+                    <!-- Team Item Starts -->
+                    <div class="team-item">
+                        <div class="team-img">
+                            <img class="img-fluid" src="img/speakers/karapetov.jpg" alt="Карапетов Артём Георгиевич">
+                        </div>
+                        <div class="info-text">
+                            <h3><a href="javascript:void(0);" target="_blank">Карапетов<br />Артём Георгиевич</a></h3>
+                            <p>д.ю.н., директор Юридического института «М-Логос», профессор НИУ ВШЭ, главный редактор журнала «Вестник экономического правосудия»</p>
+                        </div>
+                    </div>
+                    <!-- Team Item Ends -->
+                </div>
+
+                <div class="col-12 col-lg-4 col-md-6 wrapper wow fadeInUp" data-wow-delay="1.0s">
+                    <!-- Team Item Starts -->
+                    <div class="team-item">
+                        <div class="team-img">
+                            <img class="img-fluid" src="img/speakers/kucher.jpg" alt="Кучер Алена Николаевна">
+                        </div>
+                        <div class="info-text">
+                            <h3><a href="javascript:void(0);" target="_blank">Кучер<br />Алена Николаевна</a></h3>
+                            <p>к.ю.н., доцент кафедры гражданского права юридического факультета МГУ им М.В. Ломоносова, партнёр компании Дебевойз энд Плимптон</p>
+                        </div>
+                    </div>
+                    <!-- Team Item Ends -->
+                </div>
+
+                <div class="col-12 col-lg-4 col-md-6 wrapper wow fadeInUp" data-wow-delay="1.0s">
+                    <!-- Team Item Starts -->
+                    <div class="team-item">
+                        <div class="team-img">
+                            <img class="img-fluid" src="img/speakers/novak.jpg" alt="Новак Денис Васильевич">
+                        </div>
+                        <div class="info-text">
+                            <h3><a href="javascript:void(0);" target="_blank">Новак<br />Денис Васильевич</a></h3>
                             <p>к.ю.н., профессор Исследовательского центра частного права имени С.С. Алексеева при Президенте Российской Федерации</p>
                         </div>
                     </div>
                     <!-- Team Item Ends -->
                 </div>
-                
-                
                 
                 <div class="col-12 col-lg-4 col-md-6 wrapper wow fadeInUp" data-wow-delay="0.8s">
                     <!-- Team Item Starts -->
@@ -383,33 +464,34 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <!-- Team Item Ends -->
                 </div>
                 
-                <div class="col-12 col-lg-4 col-md-6 wrapper wow fadeInUp" data-wow-delay="1.0s">
-                    <!-- Team Item Starts -->
-                    <div class="team-item">
-                        <div class="team-img">
-                            <img class="img-fluid" src="img/speakers/erohova.jpg" alt="Ерохова Мария Андреевна">
-                        </div>
-                        <div class="info-text">
-                            <h3><a href="javascript:void(0);" target="_blank">Ерохова<br />Мария Андреевна</a></h3>
-                            <p>к.ю.н., доцент Высшей школы экономики</p>
-                        </div>
-                    </div>
-                    <!-- Team Item Ends -->
-                </div>
-                
                 <div class="col-12 col-lg-4 col-md-6 wrapper wow fadeInUp" data-wow-delay="1.2s">
                     <!-- Team Item Starts -->
                     <div class="team-item">
                         <div class="team-img">
-                            <img class="img-fluid" src="img/speakers/tololaeva-370px.jpg" alt="Тололаева Наталья Владимировна">
+                            <img class="img-fluid" src="img/speakers/chuprunov-370px.jpg" alt="Чупрунов Иван Сергеевич">
                         </div>
                         <div class="info-text">
-                            <h3><a href="javascript:void(0);" target="_blank">Тололаева<br />Наталья Владимировна</a></h3>
-                            <p>к.ю.н., ст. преподаватель Исследовательского центра частного права имени С.С. Алексеева при Президенте Российской Федерации, магистр юриспруденции (РШЧП)</p>
+                            <h3><a href="javascript:void(0);" target="_blank">Чупрунов<br />Иван Сергеевич</a></h3>
+                            <p>старший юрист международной юридической фирмы «Линклейтерз», магистр юриспруденции (РШЧП)</p>
                         </div>
                     </div>
                     <!-- Team Item Ends -->
                 </div>
+
+                <div class="col-12 col-lg-4 col-md-6 wrapper wow fadeInUp" data-wow-delay="1.2s">
+                    <!-- Team Item Starts -->
+                    <div class="team-item">
+                        <div class="team-img">
+                            <img class="img-fluid" src="img/speakers/tololaeva-370px.jpg" alt="Ширвиндт Андрей Михайлович">
+                        </div>
+                        <div class="info-text">
+                            <h3><a href="javascript:void(0);" target="_blank">Ширвиндт<br />Андрей Михайлович</a></h3>
+                            <p>к.ю.н., доцент кафедры гражданского права МГУ им. М.В. Ломоносова, консультант Исследовательского центра частного права имени С.С. Алексеева при Президенте Российской Федерации, магистр юриспруденции (РШЧП)</p>
+                        </div>
+                    </div>
+                    <!-- Team Item Ends -->
+                </div>
+
             </div>
         </div>
     </section>
@@ -453,7 +535,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <div class="col"></div>
         </div>
       </div>
-    </section>-->
+    </section>
 
 
 
@@ -508,14 +590,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 </div>
             </div>
         </div>
-    </section>
+    </section>-->
 
     <section id="schedule" class="section-padding text-center">
         <div class="container">
             <div class="row">
                 <div class="col-12">
                     <div class="section-title-header text-center">
-                        <h2 class="section-title wow fadeInUp" data-wow-delay="0.2s">Программа курса</h2>
+                        <h2 class="section-title wow fadeInUp" data-wow-delay="0.2s">Программа семинара</h2>
                     </div>
                 </div>
             </div>
@@ -525,103 +607,128 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <div class="schedule">
                         <div class="event-head wow fadeInUp" data-wow-delay="0.4s">
                             <div class="event wow fadeInUp no-border" data-wow-delay="0.4s">
-                                <div class="event_time"><span class="event_date">14 мая 2019 г.</span></div>
+                                <div class="event_time"><span class="event_date">Сессия I</span></div>
                                 <div class="event_details">
-                                    <h4 class="event_date event_details_title">Занятие №1 / А.В. Егоров</h4>
+                                    <h5>А.А. Иванов<br /><span style="font-weight: normal;">Незыблемость договора (pacta sunt servanda) и его недействительность</span></h5>
                                 </div>
                             </div>
                         </div>
-                        <div class="event wow fadeInUp" data-wow-delay="0.4s">
-                            <div class="event_time"><span>18.30 &ndash; 21.30</span>
-                            </div>
-                            <div class="event_details">
-                                <h5>Корпоративное право. Ответственность директоров, контролирующих лиц и участников юридических лиц. Общее тестирование по видеокурсам</h5>
-                            </div>
-                        </div>
-                        
                         <div class="event-head wow fadeInUp" data-wow-delay="0.4s">
                             <div class="event wow fadeInUp no-border" data-wow-delay="0.4s">
-                                <div class="event_time"><span class="event_date">16 мая 2019 г.</span></div>
+                                <div class="event_time"></div>
                                 <div class="event_details">
-                                    <h4 class="event_date event_details_title">Занятие №2 / С.В. Сарбаш</h4>
+                                    <h5>А.М. Ширвиндт<br /><span style="font-weight: normal;">Подтверждение интереса в оспаривании сделки (п.2 ст.166 ГК)</span></h5>
                                 </div>
                             </div>
                         </div>
-                        <div class="event wow fadeInUp" data-wow-delay="0.4s">
-                            <div class="event_time"><span>18.30 &ndash; 21.30</span>
-                            </div>
-                            <div class="event_details">
-                                <h5>Обязательственное право: общие вопросы. Исполнение. Ответственность</h5>
-                            </div>
-                        </div>
-                        
                         <div class="event-head wow fadeInUp" data-wow-delay="0.4s">
-                            <div class="event wow fadeInUp no-border" data-wow-delay="0.4s">
-                                <div class="event_time"><span class="event_date">21 мая 2019 г.</span></div>
+                            <div class="event wow fadeInUp" data-wow-delay="0.4s">
+                                <div class="event_time"></div>
                                 <div class="event_details">
-                                    <h4 class="event_date event_details_title">Занятие №3 / Р.С. Бевзенко</h4>
+                                    <h5>А.В. Егоров<br /><span style="font-weight: normal;">Способы сохранения сделки в силе: подтверждение оспоримой сделки, недобросовестность при оспаривании ничтожной сделки, конверсия недействительной сделки</span></h5>
                                 </div>
                             </div>
                         </div>
-                        <div class="event wow fadeInUp" data-wow-delay="0.4s">
-                            <div class="event_time"><span>18.30 &ndash; 21.30</span>
-                            </div>
-                            <div class="event_details">
-                                <h5>Объекты гражданских прав. Недвижимость</h5>
-                            </div>
-                        </div>
-                        
                         <div class="event-head wow fadeInUp" data-wow-delay="0.4s">
-                            <div class="event wow fadeInUp no-border" data-wow-delay="0.4s">
-                                <div class="event_time"><span class="event_date">23 мая 2019 г.</span></div>
+                            <div class="event wow fadeInUp" data-wow-delay="0.4s">
+                                <div class="event_time"><span class="event_date">Кофе-пауза</span></div>
                                 <div class="event_details">
-                                    <h4 class="event_date event_details_title">Занятие №4 / М.А. Церковников</h4>
+                                    <h5></h5>
                                 </div>
                             </div>
                         </div>
-                        <div class="event wow fadeInUp" data-wow-delay="0.4s">
-                            <div class="event_time"><span>18.30 &ndash; 21.30</span>
-                            </div>
-                            <div class="event_details">
-                                <h5>Вещные права: самовольные постройки и вещная аренда</h5>
-                            </div>
-                        </div>
-                        
-                        <div class="event-head wow fadeInUp" data-wow-delay="0.4s">
-                            <div class="event wow fadeInUp no-border" data-wow-delay="0.4s">
-                                <div class="event_time"><span class="event_date">28 мая 2019 г.</span></div>
-                                <div class="event_details">
-                                    <h4 class="event_date event_details_title">Занятие №5 / М.А. Ерохова</h4>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="event wow fadeInUp" data-wow-delay="0.4s">
-                            <div class="event_time"><span>18.30 &ndash; 21.30</span>
-                            </div>
-                            <div class="event_details">
-                                <h5>Вещные права: актуальные проблемы. Собственность, ограниченные вещные права</h5>
-                            </div>
-                        </div>
-                        
-                        <div class="event-head wow fadeInUp" data-wow-delay="0.4s">
-                            <div class="event wow fadeInUp no-border" data-wow-delay="0.4s">
-                                <div class="event_time"><span class="event_date">30 мая 2019 г.</span></div>
-                                <div class="event_details">
-                                    <h4 class="event_date event_details_title">Занятие №6 / Н.В. Тололаева</h4>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="event wow fadeInUp" data-wow-delay="0.4s">
-                            <div class="event_time"><span>18.30 &ndash; 21.30</span>
-                            </div>
-                            <div class="event_details">
-                                <h5>Договорное право: общие вопросы. Заключение и расторжение договора</h5>
-                            </div>
-                        </div>
-                        
 
+                        <div class="event-head wow fadeInUp" data-wow-delay="0.4s">
+                            <div class="event wow fadeInUp no-border" data-wow-delay="0.4s">
+                                <div class="event_time"><span class="event_date">Сессия II</span></div>
+                                <div class="event_details">
+                                    <h5>Р.С. Бевзенко<br /><span style="font-weight: normal;">Проблемы взаимности реституционных требований</span></h5>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="event-head wow fadeInUp" data-wow-delay="0.4s">
+                            <div class="event wow fadeInUp no-border" data-wow-delay="0.4s">
+                                <div class="event_time"></div>
+                                <div class="event_details">
+                                    <h5>М.А. Церковников<br /><span style="font-weight: normal;">Право третьего лица на иск о реституции</span></h5>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="event-head wow fadeInUp" data-wow-delay="0.4s">
+                            <div class="event wow fadeInUp" data-wow-delay="0.4s">
+                                <div class="event_time"></div>
+                                <div class="event_details">
+                                    <h5>М.А. Ерохова<br /><span style="font-weight: normal;">Реституция по сделке, совершенной на публичных торгах</span></h5>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="event-head wow fadeInUp" data-wow-delay="0.4s">
+                            <div class="event wow fadeInUp" data-wow-delay="0.4s">
+                                <div class="event_time"><span class="event_date">Обед</span></div>
+                                <div class="event_details">
+                                    <h5></h5>
+                                </div>
+                            </div>
+                        </div>
 
-
+                        <div class="event-head wow fadeInUp" data-wow-delay="0.4s">
+                            <div class="event wow fadeInUp no-border" data-wow-delay="0.4s">
+                                <div class="event_time"><span class="event_date">Сессия III</span></div>
+                                <div class="event_details">
+                                    <h5>А.Г. Карапетов<br /><span style="font-weight: normal;">Обман путём умолчания и угроза правомерными действиями: спящие институты ГК или прикладные инструменты оспаривания?</span></h5>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="event-head wow fadeInUp" data-wow-delay="0.4s">
+                            <div class="event wow fadeInUp no-border" data-wow-delay="0.4s">
+                                <div class="event_time"></div>
+                                <div class="event_details">
+                                    <h5>А.Н. Кучер<br /><span style="font-weight: normal;">Предоставление недостоверной информации в сделках с акциями и долями как основание для оспаривания сделок.</span></h5>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="event-head wow fadeInUp" data-wow-delay="0.4s">
+                            <div class="event wow fadeInUp" data-wow-delay="0.4s">
+                                <div class="event_time"></div>
+                                <div class="event_details">
+                                    <h5>А.А. Громов<br /><span style="font-weight: normal;">Последствия совершения сделки без согласия. Комментарий к ст.173.1 ГК.</span></h5>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="event-head wow fadeInUp" data-wow-delay="0.4s">
+                            <div class="event wow fadeInUp" data-wow-delay="0.4s">
+                                <div class="event_time"><span class="event_date">Перерыв</span></div>
+                                <div class="event_details">
+                                    <h5></h5>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="event-head wow fadeInUp" data-wow-delay="0.4s">
+                            <div class="event wow fadeInUp no-border" data-wow-delay="0.4s">
+                                <div class="event_time"><span class="event_date">Сессия IV</span></div>
+                                <div class="event_details">
+                                    <h5>О.Р. Зайцев<br /><span style="font-weight: normal;">Соотношение внеконкурсного и конкурсного оспаривания</span></h5>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="event-head wow fadeInUp" data-wow-delay="0.4s">
+                            <div class="event wow fadeInUp no-border" data-wow-delay="0.4s">
+                                <div class="event_time"></div>
+                                <div class="event_details">
+                                    <h5>И.С. Чупрунов<br /><span style="font-weight: normal;">Оспаривание сделок с заинтересованностью и крупных сделок</span></h5>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="event-head wow fadeInUp" data-wow-delay="0.4s">
+                            <div class="event wow fadeInUp" data-wow-delay="0.4s">
+                                <div class="event_time"></div>
+                                <div class="event_details">
+                                    <h5>Д.В. Новак<br /><span style="font-weight: normal;">Распространение на участников корпорации арбитражного соглашения между корпорацией и ее контрагентом по сделке при ее оспаривании</span></h5>
+                                </div>
+                            </div>
+                        </div>
+                        
                     </div>
                 </div>
             </div>
@@ -793,7 +900,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </div>
     </section>-->
 
-    <section id="how-much" class="counter-section section-padding">
+    <!--<section id="how-much" class="counter-section section-padding">
         <div class="container">
             <div class="row">
                 <div class="col-12">
@@ -803,16 +910,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 </div>
             </div>
             <div class="row">
-                <!--<div class="col-md-4" style="display: flex; flex-direction: column; justify-content: center;">
+                <div class="col-md-4" style="display: flex; flex-direction: column; justify-content: center;">
                     <p class="text-center"><i class="fas fa-award fa-10x"></i></p>
                     <p class="certificate__about">Слушатели курса, купившвие Бизнес или VIP-пакет<br>могут получить именной сертификат государственного образца (в электронном и бумажном виде).</p>
-                </div>-->
+                </div>
                 <div class="col-md-12 text-center">
                     <p><img src="img/sertificate.jpg" style="-webkit-box-shadow: 7px 7px 40px 0px rgba(0,0,0,1); -moz-box-shadow: 7px 7px 40px 0px rgba(0,0,0,1); box-shadow: 7px 7px 40px 0px rgba(0,0,0,1); max-width: 100%;"></p>
                 </div>
             </div>
         </div>
-    </section>
+    </section>-->
 
     <section id="tariffs" class="section-padding">
         <div class="background"></div>
@@ -972,7 +1079,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </section>-->
 
 
-    <!-- Map Section Start
+    <!-- Map Section Start -->
     <div id="contacts"></div>
     <section id="mobileAdress">
         <div class="container">
@@ -984,7 +1091,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             <p><i class="fas fa-map-marked-alt fa-2x fa-pull-left"></i></p>
                         </div>
                         <div>
-                            <p>г. Москва, Газетный переулок, 3-5с1<br>(Московская высшая школа социальных и экономических наук "Шанинка")</p>
+                            <p>Москва, Столярный пер., д. 3, корп. 1<br>(InLiberty)</p>
                         </div>
                     </div>
                     <div class="row">
@@ -1008,9 +1115,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         <p>школа для юристов-практиков</p>
                     </a>
                     <h4>Место проведения<br />для очных участников:</h4>
-                    <p><strong>Московская высшая школа социальных и экономических наук "Шанинка"</strong></p>
-                    <p>г. Москва, Газетный переулок, 3-5с1</p>
-                    <p>(вход с Малого Черкасского переулка)</p>
+                    <p><strong>InLiberty</strong></p>
+                    <p>Москва, Столярный пер., д. 3, корп. 1</p>
                     <p><a href="tel:+74953746172">+7 (495) 374-61-72</a></p>
                     <p><a href="mailto:info@lextorium.ru">info@lextorium.ru</a></p>
                     <p>пн-пт: 9:00-18:00</p>
