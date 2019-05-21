@@ -26,13 +26,13 @@
     <link rel="stylesheet" href="https://cast14.lextorium.com/assets/css/fonts.min.css" media="screen">
     <script src="https://use.fontawesome.com/a6957aab41.js"></script>
 
-    <link href="https://cast27.lextorium.com/img/events/cast27-social-banner.jpg" rel="image_src" />
+    <!--<link href="https://conf2.lextorium.com/img/events/conf2-social-banner.jpg" rel="image_src" />-->
 
-    <meta property="og:url" content="https://cast27.lextorium.com/" />
+    <meta property="og:url" content="https://conf2.lextorium.com/" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content='Онлайн-курс "Банкротство. Разбор судебной практики 2019"' />
-    <meta property="og:description" content='Онлайн-курс "Банкротство. Разбор судебной практики 2019". Пошаговое руководство для юристов, которые хотят быстро, эффективно и с наилучшим результатом разрешать сложные банкротные дела. Начало 15 апреля 2019. Формат участия: онлайн.' />
-    <meta property="og:image" content='https://cast27.lextorium.com/img/events/cast27-social-banner.jpg' />
+    <meta property="og:title" content='Оспаривание сделок в актуальной судебной практике: проблемы и решения' />
+    <meta property="og:description" content='Научно-практическая конференция "Оспаривание сделок в актуальной судебной практике: проблемы и решения". 12 спикеров. 8 академических часов. Формат участия: онлайн+очно.' />
+    <!--<meta property="og:image" content='https://conf2.lextorium.com/img/events/conf2-social-banner.jpg' />-->
     <meta property="og:updated_time" content="2019-03-20 09:26:48 +0300" />
 </head>
 
@@ -64,7 +64,7 @@
                     <span class="icon-bar"></span>
                 </button>
                 <a href="index.html" class="navbar-brand">
-                    <img src="https://cast26.lextorium.com/assets/images/lextorium_logo.png" alt="One of the best themes ever" style="max-height: 70px;">
+                    <img src="https://conf2.lextorium.com/assets/images/lextorium_logo.png" alt="One of the best themes ever" style="max-height: 70px;">
                 </a>
             </div>
             <nav class="collapse navbar-collapse main-navbar" role="navigation">
@@ -104,7 +104,7 @@
                             </li>
                             <li><a href="#">Курсы</a>
                             </li>
-                            <li class="active">Банкротство. Разбор судебной практики</li>
+                            <li class="active">Оспаривание сделок в актуальной судебной практике</li>
                         </ol>
                     </div>
                 </div>
@@ -120,7 +120,7 @@
                         <div class="col-md-12">
                             <header class="text-left element-short-top element-short-bottom os-animation not-condensed" data-os-animation="none" data-os-animation-delay="1s">
                                 <h1 class="bigger light bordered-normal">
-                                    Ваш вопрос автору онлайн-курса
+                                    Ваш вопрос спикерам конференции
                                 </h1>
                             </header>
                         </div>
@@ -135,12 +135,12 @@
                                 <h1 class="big black bordered bordered-normal">
                                     Заявка успешно отправлена!
                                 </h1>
-                                <p class="lead">Спасибо. Ваша заявка отправлена менеджеру и он очень скоро с Вами свяжется. А пока Вы можете задать вопрос автору онлайн-курса, на который Вы получите ответ в прямом эфире!</p>
+                                <p class="lead">Спасибо. Ваша заявка отправлена менеджеру и он очень скоро с Вами свяжется. А пока Вы можете задать вопрос спикерам конференции, на который Вы получите ответ в прямом эфире!</p>
                             </header>
                             
                             <header class="text-left element-short-top element-short-bottom">
                                 <h2 class="bordered bordered-normal">
-                                    Задайте свой вопрос автору онлайн-курса
+                                    Задайте свой вопрос спикерам конференции
                                 </h2>
                             </header>
                             <script type="text/javascript">
@@ -148,8 +148,8 @@
 
                             </script>
                             <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted)
-{window.location='https://cast26.lextorium.com/question-send-success.html';}"></iframe>
-                            <form action="https://docs.google.com/forms/d/e/1FAIpQLSd3vLXgXkc4FN6fN3Z1Ay4gev9YmSTUS6lGpc2K4errKW6eHQ/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true;" onsubmit="submitted=true;">
+{window.location='https://conf2.lextorium.com/question-send-success.html';}"></iframe>
+                            <form action="https://docs.google.com/forms/d/e/1FAIpQLScSIUkGhonIIe8Jx_kw79J98aiWxy3SP-617Bhh72pF746O3Q/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true;" onsubmit="submitted=true;">
                                 <fieldset>
                                     <div class="form-group form-icon-group">
                                         <input type="text" jsname="YPqjbf" id="comment" name="entry.571529561" placeholder="Ваше имя" class="input-block-level form-control"><i class="fa fa-user"></i>
