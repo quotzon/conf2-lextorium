@@ -342,7 +342,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         <!-- Team Item Starts -->
                         <div class="team-item">
                             <div class="team-img">
-                                <img class="img-fluid" src="img/speakers/egorov.jpg" alt="Громов М.П.">
+                                <img class="img-fluid" src="img/speakers/gromov-370px.jpg" alt="Громов М.П.">
                             </div>
                             <div class="info-text">
                                 <h3><a href="javascript:void(0);" target="_blank">Громов<br />М.П.</a></h3>
