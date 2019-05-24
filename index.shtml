@@ -158,8 +158,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         </div>-->
                         <div class="details">
                             <ul class="fa-ul">
-                                <li><span class="fa-li"><i class="fas fa-user-tie"></i></span>8 часов</li>
+                                <li><span class="fa-li"><i class="fas fa-user-tie"></i></span>12 спикеров</li>
                                 <li><span class="fa-li"><i class="fas fa-play-circle"></i></span>8 часов</li>
+                                <li><span class="fa-li"><i class="fas fa-chalkboard-teacher"></i></span>Формат участия: очно/онлайн + запись</li>
                                 <li><span class="fa-li"><i class="fas fa-calendar"></i></span>28 августа 2019 года</li>
                             </ul>
 
@@ -324,6 +325,20 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             </div>
             <div class="row row-flex justify-content-center mb-5">
 
+                <div class="col-12 col-lg-4 col-md-6 wrapper wow fadeInUp" data-wow-delay="1.0s">
+                    <!-- Team Item Starts -->
+                    <div class="team-item">
+                        <div class="team-img">
+                            <img class="img-fluid" src="img/speakers/karapetov.jpg" alt="Карапетов Артём Георгиевич">
+                        </div>
+                        <div class="info-text">
+                            <h3><a href="javascript:void(0);" target="_blank">Карапетов<br />Артём Георгиевич</a></h3>
+                            <p>д.ю.н., директор Юридического института «М-Логос», профессор НИУ ВШЭ, главный редактор журнала «Вестник экономического правосудия»</p>
+                        </div>
+                    </div>
+                    <!-- Team Item Ends -->
+                </div>
+
                 <div class="col-12 col-lg-4 col-md-6 wrapper wow fadeInUp" data-wow-delay="0.6s">
                     <!-- Team Item Starts -->
                     <div class="team-item">
@@ -339,20 +354,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 </div>
 
                 <div class="col-12 col-lg-4 col-md-6 wrapper wow fadeInUp" data-wow-delay="0.2s">
-                        <!-- Team Item Starts -->
-                        <div class="team-item">
-                            <div class="team-img">
-                                <img class="img-fluid" src="img/speakers/gromov-370px.jpg" alt="Громов М.П.">
-                            </div>
-                            <div class="info-text">
-                                <h3><a href="javascript:void(0);" target="_blank">Громов<br />М.П.</a></h3>
-                                <p>к.ю.н., м.ч.п. (РШЧП)</p>
-                            </div>
-                        </div>
-                        <!-- Team Item Ends -->
-                    </div>
-                
-                <div class="col-12 col-lg-4 col-md-6 wrapper wow fadeInUp" data-wow-delay="0.2s">
                     <!-- Team Item Starts -->
                     <div class="team-item">
                         <div class="team-img">
@@ -361,6 +362,20 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         <div class="info-text">
                             <h3><a href="javascript:void(0);" target="_blank">Егоров<br />Андрей Владимирович</a></h3>
                             <p>к.ю.н., главный редактор Журнала РШЧП, член Совета по кодификации и совершенствованию гражданского законодательства при Президенте Российской Федерации, член межведомственной рабочей группы по совершенствованию законодательства о лизинге при Министерстве финансов Российской Федерации, магистр частного права (РШЧП)</p>
+                        </div>
+                    </div>
+                    <!-- Team Item Ends -->
+                </div>
+
+                <div class="col-12 col-lg-4 col-md-6 wrapper wow fadeInUp" data-wow-delay="0.2s">
+                    <!-- Team Item Starts -->
+                    <div class="team-item">
+                        <div class="team-img">
+                            <img class="img-fluid" src="img/speakers/gromov-370px.jpg" alt="Громов М.П.">
+                        </div>
+                        <div class="info-text">
+                            <h3><a href="javascript:void(0);" target="_blank">Громов<br />М.П.</a></h3>
+                            <p>к.ю.н., м.ч.п. (РШЧП)</p>
                         </div>
                     </div>
                     <!-- Team Item Ends -->
@@ -403,20 +418,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         <div class="info-text">
                             <h3><a href="javascript:void(0);" target="_blank">Иванов<br />Антон Александрович</a></h3>
                             <p>профессор, научный руководитель Факультета права НИУ ВШЭ, заведующий кафедрой гражданского и предпринимательского права</p>
-                        </div>
-                    </div>
-                    <!-- Team Item Ends -->
-                </div>
-
-                <div class="col-12 col-lg-4 col-md-6 wrapper wow fadeInUp" data-wow-delay="1.0s">
-                    <!-- Team Item Starts -->
-                    <div class="team-item">
-                        <div class="team-img">
-                            <img class="img-fluid" src="img/speakers/karapetov.jpg" alt="Карапетов Артём Георгиевич">
-                        </div>
-                        <div class="info-text">
-                            <h3><a href="javascript:void(0);" target="_blank">Карапетов<br />Артём Георгиевич</a></h3>
-                            <p>д.ю.н., директор Юридического института «М-Логос», профессор НИУ ВШЭ, главный редактор журнала «Вестник экономического правосудия»</p>
                         </div>
                     </div>
                     <!-- Team Item Ends -->
@@ -482,7 +483,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <!-- Team Item Starts -->
                     <div class="team-item">
                         <div class="team-img">
-                            <img class="img-fluid" src="img/speakers/tololaeva-370px.jpg" alt="Ширвиндт Андрей Михайлович">
+                            <img class="img-fluid" src="img/speakers/shirvindt.jpg" alt="Ширвиндт Андрей Михайлович">
                         </div>
                         <div class="info-text">
                             <h3><a href="javascript:void(0);" target="_blank">Ширвиндт<br />Андрей Михайлович</a></h3>
@@ -631,7 +632,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         </div>
                         <div class="event-head wow fadeInUp" data-wow-delay="0.4s">
                             <div class="event wow fadeInUp" data-wow-delay="0.4s">
-                                <div class="event_time"><span class="event_date">Кофе-пауза</span></div>
+                                <div class="event_time no-dot"><span class="event_date">Кофе-пауза</span></div>
                                 <div class="event_details">
                                     <h5></h5>
                                 </div>
@@ -664,7 +665,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         </div>
                         <div class="event-head wow fadeInUp" data-wow-delay="0.4s">
                             <div class="event wow fadeInUp" data-wow-delay="0.4s">
-                                <div class="event_time"><span class="event_date">Обед</span></div>
+                                <div class="event_time no-dot"><span class="event_date">Обед</span></div>
                                 <div class="event_details">
                                     <h5></h5>
                                 </div>
@@ -697,7 +698,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         </div>
                         <div class="event-head wow fadeInUp" data-wow-delay="0.4s">
                             <div class="event wow fadeInUp" data-wow-delay="0.4s">
-                                <div class="event_time"><span class="event_date">Перерыв</span></div>
+                                <div class="event_time no-dot"><span class="event_date">Перерыв</span></div>
                                 <div class="event_details">
                                     <h5></h5>
                                 </div>
@@ -1091,7 +1092,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             <p><i class="fas fa-map-marked-alt fa-2x fa-pull-left"></i></p>
                         </div>
                         <div>
-                            <p>Москва, Столярный пер., д. 3, корп. 1<br>(InLiberty)</p>
+                            <p>Москва, Столярный пер., д. 3, корп. 1<br>(5 минут пешком от м. 1905 года, InLiberty)</p>
                         </div>
                     </div>
                     <div class="row">
@@ -1116,7 +1117,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     </a>
                     <h4>Место проведения<br />для очных участников:</h4>
                     <p><strong>InLiberty</strong></p>
-                    <p>Москва, Столярный пер., д. 3, корп. 1</p>
+                    <p>Москва, Столярный пер., д. 3, корп. 1<br>(5 минут пешком от м. 1905 года)</p>
                     <p><a href="tel:+74953746172">+7 (495) 374-61-72</a></p>
                     <p><a href="mailto:info@lextorium.ru">info@lextorium.ru</a></p>
                     <p>пн-пт: 9:00-18:00</p>

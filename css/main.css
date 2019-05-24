@@ -1586,6 +1586,10 @@ a.back-to-top:focus i {
     background-color: #b02853;
 }
 
+.schedule .event-head .event_time.no-dot:after {
+    background-color: #fff;
+}
+
 .schedule .event {
     display: flex;
     padding: 10px 0;
