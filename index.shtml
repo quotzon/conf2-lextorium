@@ -736,11 +736,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 </div>
             </div>
 
-            <!--<div class="row">
+            <div class="row">
                 <div class="col-12 wow fadeInUp" data-wow-delay="0.4s">
-                    <a href="/files/Prez_Nedv.pdf" target="_blank" class="btn btn-card">Скачать программу</a>
+                    <a href="/files/Prez_Ospar.pdf" target="_blank" class="btn btn-card">Скачать программу</a>
                 </div>
-            </div>-->
+            </div>
         </div>
     </section>
 
