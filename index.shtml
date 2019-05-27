@@ -141,7 +141,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <img class="d-block w-100" src="img/big-top-image.jpg" alt="">
                     <div class="carousel-caption d-md-block">
                         <h2></h2>
-                        <h1 class="wow fadeInDown heading mb-20" data-wow-delay=".6s">Оспаривание сделок в актуальной судебной практике: проблемы и решения<br>Научно-практическая конференция</h1>
+                        <h1 class="wow fadeInDown heading mb-20" data-wow-delay=".6s">Оспаривание сделок в актуальной судебной практике: проблемы и решения</h1>
 
                         <!--<div class="details">
                             <p class="fadeInUp wow" data-wow-delay=".8s"><span class="icon">
@@ -158,10 +158,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         </div>-->
                         <div class="details">
                             <ul class="fa-ul">
+                                    <li><span class="fa-li"><i class="fas fa-bullhorn"></i></span>Научно-практическая конференция</li>
                                 <li><span class="fa-li"><i class="fas fa-user-tie"></i></span>12 спикеров</li>
                                 <li><span class="fa-li"><i class="fas fa-play-circle"></i></span>8 часов</li>
                                 <li><span class="fa-li"><i class="fas fa-chalkboard-teacher"></i></span>Формат участия: очно/онлайн + запись</li>
                                 <li><span class="fa-li"><i class="fas fa-calendar"></i></span>28 августа 2019 года</li>
+                                <li><span class="fa-li"><i class="fas fa-clock"></i></span>с 10 до 18 МСК</li>
                             </ul>
 
 
@@ -347,7 +349,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         </div>
                         <div class="info-text">
                             <h3><a href="javascript:void(0);" target="_blank">Бевзенко<br />Роман Сергеевич</a></h3>
-                            <p>к.ю.н., профессор Исследовательского центра частного права имени С.С. Алексеева при Президенте Российской Федерации</p>
+                            <p>к.ю.н., Профессор РШЧП</p>
                         </div>
                     </div>
                     <!-- Team Item Ends -->
@@ -374,8 +376,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             <img class="img-fluid" src="img/speakers/gromov-370px.jpg" alt="Громов М.П.">
                         </div>
                         <div class="info-text">
-                            <h3><a href="javascript:void(0);" target="_blank">Громов<br />М.П.</a></h3>
-                            <p>к.ю.н., м.ч.п. (РШЧП)</p>
+                            <h3><a href="javascript:void(0);" target="_blank">Громов<br />Андрей Андреевич</a></h3>
+                            <p>к.ю.н, адвокат, доцент Высшей школы экономики</p>
                         </div>
                     </div>
                     <!-- Team Item Ends -->
