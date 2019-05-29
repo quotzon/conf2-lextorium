@@ -1436,9 +1436,9 @@ a.back-to-top:focus i {
     z-index: 1;
 }
 
-#tariffs .section-title {
+/*#tariffs .section-title {
     color: #ffffff;
-}
+}*/
 
 #tariffs .wrapper {
     padding-top: 20px;
@@ -1560,7 +1560,8 @@ a.back-to-top:focus i {
 
 /* Schedule Area */
 #schedule {
-    padding: 20px 0 150px;
+    padding: 50px 0 50px;
+    background-color: #e9e9e9;
 }
 
 .schedule {
@@ -2715,6 +2716,13 @@ a.back-to-top:focus i {
     margin-bottom: 0;
 }
 
+@media (max-width: 991px) {
+    #main-slide .carousel-item .carousel-caption .details p, #main-slide .carousel-item .carousel-caption .details ul li {
+        font-size: 16px;
+        line-height: 25px;
+    }
+}
+
 #main-slide .carousel-item .carousel-caption .details::before,
 #main-slide .carousel-item .carousel-caption .details::after {
     width: 100%;
@@ -2826,6 +2834,10 @@ a.back-to-top:focus i {
 
 #tariffs .row-flex {
     justify-content: space-between;
+}
+
+#tariffs .content-center {
+    justify-content: center;
 }
 
 @media (min-width: 992px) {

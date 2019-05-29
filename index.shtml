@@ -37,13 +37,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
     <link rel="shortcut icon" href="img/favicon/favicon.ico" type="image/x-icon">
 
-    <!--<link href="https://conf2.lextorium.com/img/events/conf2-social-banner.jpg" rel="image_src" />-->
+    <link href="https://conf2.lextorium.com/img/events/conf2-social-banner.jpg" rel="image_src" />
 
     <meta property="og:url" content="https://conf2.lextorium.com/" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content='Оспаривание сделок в актуальной судебной практике: проблемы и решения' />
     <meta property="og:description" content='Научно-практическая конференция "Оспаривание сделок в актуальной судебной практике: проблемы и решения". 12 спикеров. 8 академических часов. Формат участия: онлайн+очно.' />
-    <!--<meta property="og:image" content='https://conf2.lextorium.com/img/events/conf2-social-banner.jpg' />-->
+    <meta property="og:image" content='https://conf2.lextorium.com/img/events/conf2-social-banner.jpg' />
     <meta property="og:updated_time" content="2019-03-20 09:26:48 +0300" />
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
@@ -140,7 +140,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <div class="carousel-item active">
                     <img class="d-block w-100" src="img/big-top-image.jpg" alt="">
                     <div class="carousel-caption d-md-block">
-                        <h2></h2>
                         <h1 class="wow fadeInDown heading mb-20" data-wow-delay=".6s">Оспаривание сделок в актуальной судебной практике: проблемы и решения</h1>
 
                         <!--<div class="details">
@@ -925,7 +924,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </section>-->
 
     <section id="tariffs" class="section-padding">
-        <div class="background"></div>
+        <!--<div class="background"></div>-->
         <div class="container">
             <div class="row">
                 <div class="col-12">
@@ -934,7 +933,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     </div>
                 </div>
             </div>
-            <div class="row row-flex" id="cardsTemp">
+            <div class="row content-center" id="cardsTemp">
 
 
                 <div class="col-lg"></div>
